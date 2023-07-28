@@ -7,6 +7,7 @@ private: false
 updated_at: '2022-11-11T21:52:04+09:00'
 id: 2faa6de9ffa266f83e5a
 organization_url_name: null
+slide: false
 ---
 # はじめに
 IAMユーザーとIAMユーザーグループを学ぶ機会があったため、概要から作成手順までまとめました。
