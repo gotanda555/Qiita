@@ -1,13 +1,13 @@
 ---
 title: ransackで、パラメータに空白が含まれていても許可するよう設定する
 tags:
-  - 'Ruby'
-  - 'Rails'
-  - 'gem'
-  - 'ransack'
+  - Ruby
+  - Rails
+  - Gem
+  - ransack
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-07-29T22:04:22+09:00'
+id: 451d41029171275ebbe4
 organization_url_name: null
 slide: false
 ---
